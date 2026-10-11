@@ -52,7 +52,7 @@ VITE_DEV_PROXY_TARGET=http://localhost:5001
 
 ---
 
-## ▶️ Menjalankan Aplikasi
+##  Menjalankan Aplikasi
 
 Jalankan perintah ini di root folder `AgriTech` untuk menjalankan **Frontend** dan **Backend** secara paralel:
 
@@ -65,7 +65,7 @@ npm run dev
 
 ---
 
-## 👤 Akun Demo Bawaan
+##  Akun Demo Bawaan
 
 | Peran | Email | Password |
 |---|---|---|
